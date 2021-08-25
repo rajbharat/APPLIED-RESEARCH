@@ -1,0 +1,1 @@
+pyinstaller -y -w --add-data "codes/augmenters.py":"." --add-data "/codes/metrics.py":"." --add-data "codes/models.py":"." --add-data "codes/prediction.py":"."  "codes/UI.py"

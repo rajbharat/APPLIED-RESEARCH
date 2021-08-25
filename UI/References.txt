@@ -1,0 +1,25 @@
+Methods:
+https://discovery.ucl.ac.uk/id/eprint/10082295/1/Barratt_Automatic%20segmentation%20of%20prostate%20MRI%20using%20convolutional%20neural%20networks_VoR.pdf
+https://github.com/SabareeshIyer/Brain-tumor-detection-in-3D-MRIs-using-DCGAN
+https://github.com/jchen42703/CapsNetsLASeg
+https://www.academia.edu/25473225/A_Reinforcement_Learning_Framework_for_Medical_Image_Segmentation
+https://github.com/sunjesse/shape-attentive-unet?fbclid=IwAR1nxUuKSKPPiwmU2QEa0whSYEXpYO-R2S-ruSpk5sUXho2k-C_pV6meFrQ
+https://www.researchgate.net/publication/237050906_Efficient_3D_Multi-Region_Prostate_MRI_Segmentation_using_Dual_Optimization
+
+Some Implementations:
+https://github.com/alexhamiltonRN/ProstateX
+https://github.com/96imranahmed/3D-Unet
+https://medium.com/@eugene.chian/3d-cnn-classification-of-prostate-tumour-on-multi-parametric-mri-sequences-prostatex-2-cced525394bb
+https://github.com/hugegene/3D-CNN-on-PROSTATEx2
+https://techgrabyte.com/11-automl-tools-automate-machine-learning/
+https://towardsdatascience.com/google-cloud-automl-vision-for-medical-image-classification-76dfbf12a77e
+
+Medical Imaging Libraries:
+https://github.com/deepmedic/deepmedic
+https://github.com/josedolz/HyperDenseNet
+https://github.com/frankkramer-lab/MIScnn
+https://github.com/DLTK/DLTK
+https://github.com/NifTK/NiftyNet
+https://github.com/smistad/FAST
+https://github.com/Roulbac/GanSeg
+

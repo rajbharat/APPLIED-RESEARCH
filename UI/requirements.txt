@@ -1,0 +1,7 @@
+tensorflow-gpu
+Keras
+numpy
+opencv-python
+scikit-image
+SimpleITK
+PyInstaller
